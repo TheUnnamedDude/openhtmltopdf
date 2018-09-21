@@ -62,7 +62,7 @@ from ````/openhtmltopdf-examples/src/main/java/com/openhtmltopdf/testcases/Testc
 CHANGELOG
 ========
 
-head - 0.0.1-RC16-SNAPSHOT
+head - 0.0.1-RC16-NAV
 ========
 
 

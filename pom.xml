@@ -5,7 +5,7 @@
 
   <groupId>com.openhtmltopdf</groupId>
   <artifactId>openhtmltopdf-parent</artifactId>
-  <version>0.0.1-RC16-SNAPSHOT</version>
+  <version>0.0.1-RC16-NAV</version>
 
   <packaging>pom</packaging>
 
